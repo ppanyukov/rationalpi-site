@@ -1,1 +1,13 @@
-web site for rationalpi.co.uk
+# Rational π
+
+Software Engineering & DevOps
+
+- Go
+- Azure
+- Linux
+- Containers
+
+
+
+
+
