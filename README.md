@@ -1,5 +1,3 @@
-# Rational π
-
 Software Engineering & DevOps
 
 - Go
